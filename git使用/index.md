@@ -3,9 +3,7 @@
 
 # git使用[^1]
 
-```markdown
-{{< music auto="https://music.163.com/#/song?id=1418131335" >}}
-```
+{{< music auto="https://music.163.com/#/playlist?id=60198" >}}
 
 ## 基本命令
 
